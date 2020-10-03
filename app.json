@@ -1,0 +1,12 @@
+{
+  "name": "ForestGuardians",
+  "displayName": "ForestGuardians",
+  "expo": {
+    "name": "ForestGuardians",
+    "slug": "ForestGuardians",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
