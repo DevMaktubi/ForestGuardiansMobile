@@ -5,8 +5,16 @@
     "name": "ForestGuardians",
     "slug": "ForestGuardians",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "splash": {
+      "image": "./src/assets/inicial.png",
+      "resizeMode": "cover"
+    },
+    "android": {
+      "permissions": ["ACCESS_COARSE_LOCATION", "ACCESS_FINE_LOCATION"]
+    }
+  },
+  "android": {
+    "permissions": ["ACCESS_COARSE_LOCATION", "ACCESS_FINE_LOCATION"]
   }
 }
